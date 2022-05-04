@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joyalmathew9
 - 👀 I’m interested in data science, bioinformatics
 - 🌱 I’m currently learning biotechnology and data science
-- 💞️ I’m looking to collaborate on any data science projetcs majorly in the field of biotechnology
+- 💞️ I’m looking to collaborate on any data science projetcs
 - 📫 How to reach me ...
 
 <!---
